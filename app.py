@@ -1,6 +1,6 @@
 # -----------------  Email sender  ---------------- #
 # author: Sayed Mohammad Rezaie -- 11.Nov.2020
-# github: @cdied --- email: cdiedwbh@gmail.com
+# github: @cdied
 
 # description:
 # 1. Email sender application with GUI (tkinter)
