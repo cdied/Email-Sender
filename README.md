@@ -18,7 +18,7 @@ description:
 * port numbers 25, 587, 465, or 2525 can be used for SMTP_SSL
 
 * email = "" >>> you need to your email address here >>> it should be matched with msg["From"]
-* password = "" >>> you need to modify email's password here
+* password = "" >>> you need to pass email's password here
     
      with smtplib.SMTP_SSL(smtp.gmail.com, 465) as smtp:
         smtp.login(email, password)
