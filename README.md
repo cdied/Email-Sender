@@ -19,7 +19,7 @@ description:
 ------------------------------------------------------
 * email = "" >>> you need to your email address here >>> it should be matched with msg["From"]
 * password = "" >>> you need to pass email's password here
-    
+------------------------------------------------------ 
      with smtplib.SMTP_SSL(smtp.gmail.com, 465) as smtp:
         smtp.login(email, password)
         smtp.send_message(msg)
