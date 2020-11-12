@@ -12,8 +12,8 @@ description:
 
 
 
-following comment are a Secure SMTP email sender for gmail.com
-     gmail.com can be replaced with other email service providers
+following function is a Secure SMTP email sender for gmail.com
+     smtp.gmail.com can be replaced with other email service providers
      in this case user have to login to his/her email by passing email and password
      port numbers 25, 587, 465, or 2525 can be used for SMTP_SSL
 
