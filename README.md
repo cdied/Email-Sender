@@ -1,14 +1,14 @@
 # -----------------  Email sender  ---------------- #
-# author: Sayed Mohammad Rezaie -- 11.Nov.2020
-# github: @cdied
+author: Sayed Mohammad Rezaie -- 11.Nov.2020
+github: @cdied
 
 
 
-# description:
-# 1. Email sender application with GUI (tkinter)
-# 2. App is using SMTP protocol to send email
-# 3. to send email using gmail, hotmail or ..., code must be modifyed. you can find it inside the function section
-# 4. imports tkinter, smtplib, email
+description:
+1. Email sender application with GUI (tkinter)
+2. App is using SMTP protocol to send email
+3. to send email using gmail, hotmail or ..., code must be modifyed. you can find it inside the function section
+4. imports tkinter, smtplib, email
 
 
 
